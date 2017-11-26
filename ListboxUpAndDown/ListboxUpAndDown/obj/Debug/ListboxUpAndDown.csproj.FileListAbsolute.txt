@@ -1,0 +1,8 @@
+F:\C#\ListboxUpAndDown\ListboxUpAndDown\bin\Debug\ListboxUpAndDown.exe.config
+F:\C#\ListboxUpAndDown\ListboxUpAndDown\bin\Debug\ListboxUpAndDown.exe
+F:\C#\ListboxUpAndDown\ListboxUpAndDown\bin\Debug\ListboxUpAndDown.pdb
+F:\C#\ListboxUpAndDown\ListboxUpAndDown\obj\Debug\ListboxUpAndDown.Form1.resources
+F:\C#\ListboxUpAndDown\ListboxUpAndDown\obj\Debug\ListboxUpAndDown.Properties.Resources.resources
+F:\C#\ListboxUpAndDown\ListboxUpAndDown\obj\Debug\ListboxUpAndDown.csproj.GenerateResource.Cache
+F:\C#\ListboxUpAndDown\ListboxUpAndDown\obj\Debug\ListboxUpAndDown.exe
+F:\C#\ListboxUpAndDown\ListboxUpAndDown\obj\Debug\ListboxUpAndDown.pdb

@@ -1,0 +1,4 @@
+F:\C#\NamepaceExample\ProjectA.TeamA\bin\Debug\ProjectA.TeamA.dll
+F:\C#\NamepaceExample\ProjectA.TeamA\bin\Debug\ProjectA.TeamA.pdb
+F:\C#\NamepaceExample\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.dll
+F:\C#\NamepaceExample\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.pdb

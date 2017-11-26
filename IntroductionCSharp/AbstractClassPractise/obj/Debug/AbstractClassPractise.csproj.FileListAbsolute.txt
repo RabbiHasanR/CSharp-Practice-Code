@@ -1,0 +1,6 @@
+F:\C#\IntroductionCSharp\AbstractClassPractise\bin\Debug\AbstractClassPractise.exe.config
+F:\C#\IntroductionCSharp\AbstractClassPractise\bin\Debug\AbstractClassPractise.exe
+F:\C#\IntroductionCSharp\AbstractClassPractise\bin\Debug\AbstractClassPractise.pdb
+F:\C#\IntroductionCSharp\AbstractClassPractise\obj\Debug\AbstractClassPractise.exe
+F:\C#\IntroductionCSharp\AbstractClassPractise\obj\Debug\AbstractClassPractise.pdb
+F:\C#\IntroductionCSharp\AbstractClassPractise\obj\Debug\AbstractClassPractise.csprojResolveAssemblyReference.cache

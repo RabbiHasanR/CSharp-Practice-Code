@@ -1,0 +1,6 @@
+F:\C#\IntroductionCSharp\DelegatePractise\bin\Debug\DelegatePractise.exe.config
+F:\C#\IntroductionCSharp\DelegatePractise\bin\Debug\DelegatePractise.exe
+F:\C#\IntroductionCSharp\DelegatePractise\bin\Debug\DelegatePractise.pdb
+F:\C#\IntroductionCSharp\DelegatePractise\obj\Debug\DelegatePractise.csprojResolveAssemblyReference.cache
+F:\C#\IntroductionCSharp\DelegatePractise\obj\Debug\DelegatePractise.exe
+F:\C#\IntroductionCSharp\DelegatePractise\obj\Debug\DelegatePractise.pdb

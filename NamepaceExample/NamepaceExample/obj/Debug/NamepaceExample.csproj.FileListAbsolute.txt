@@ -1,0 +1,10 @@
+F:\C#\NamepaceExample\NamepaceExample\bin\Debug\NamepaceExample.exe.config
+F:\C#\NamepaceExample\NamepaceExample\bin\Debug\NamepaceExample.exe
+F:\C#\NamepaceExample\NamepaceExample\bin\Debug\NamepaceExample.pdb
+F:\C#\NamepaceExample\NamepaceExample\bin\Debug\ProjectA.TeamA.dll
+F:\C#\NamepaceExample\NamepaceExample\bin\Debug\ProjectA.TeamB.dll
+F:\C#\NamepaceExample\NamepaceExample\bin\Debug\ProjectA.TeamA.pdb
+F:\C#\NamepaceExample\NamepaceExample\bin\Debug\ProjectA.TeamB.pdb
+F:\C#\NamepaceExample\NamepaceExample\obj\Debug\NamepaceExample.csprojResolveAssemblyReference.cache
+F:\C#\NamepaceExample\NamepaceExample\obj\Debug\NamepaceExample.exe
+F:\C#\NamepaceExample\NamepaceExample\obj\Debug\NamepaceExample.pdb

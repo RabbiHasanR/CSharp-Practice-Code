@@ -1,0 +1,9 @@
+F:\C#\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+F:\C#\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe
+F:\C#\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.pdb
+F:\C#\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csprojResolveAssemblyReference.cache
+F:\C#\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Main.resources
+F:\C#\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+F:\C#\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+F:\C#\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
+F:\C#\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb

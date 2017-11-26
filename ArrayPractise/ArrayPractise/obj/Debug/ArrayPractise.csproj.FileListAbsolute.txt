@@ -1,0 +1,6 @@
+F:\C#\ArrayPractise\ArrayPractise\bin\Debug\ArrayPractise.exe.config
+F:\C#\ArrayPractise\ArrayPractise\bin\Debug\ArrayPractise.exe
+F:\C#\ArrayPractise\ArrayPractise\bin\Debug\ArrayPractise.pdb
+F:\C#\ArrayPractise\ArrayPractise\obj\Debug\ArrayPractise.csprojResolveAssemblyReference.cache
+F:\C#\ArrayPractise\ArrayPractise\obj\Debug\ArrayPractise.exe
+F:\C#\ArrayPractise\ArrayPractise\obj\Debug\ArrayPractise.pdb

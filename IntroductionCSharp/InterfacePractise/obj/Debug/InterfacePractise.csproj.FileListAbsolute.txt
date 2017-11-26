@@ -1,0 +1,6 @@
+F:\C#\IntroductionCSharp\InterfacePractise\bin\Debug\InterfacePractise.exe.config
+F:\C#\IntroductionCSharp\InterfacePractise\bin\Debug\InterfacePractise.exe
+F:\C#\IntroductionCSharp\InterfacePractise\bin\Debug\InterfacePractise.pdb
+F:\C#\IntroductionCSharp\InterfacePractise\obj\Debug\InterfacePractise.csprojResolveAssemblyReference.cache
+F:\C#\IntroductionCSharp\InterfacePractise\obj\Debug\InterfacePractise.exe
+F:\C#\IntroductionCSharp\InterfacePractise\obj\Debug\InterfacePractise.pdb

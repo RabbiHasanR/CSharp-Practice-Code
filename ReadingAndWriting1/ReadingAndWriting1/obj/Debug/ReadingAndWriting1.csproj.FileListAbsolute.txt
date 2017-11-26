@@ -1,0 +1,6 @@
+F:\C#\ReadingAndWriting1\ReadingAndWriting1\bin\Debug\ReadingAndWriting1.exe.config
+F:\C#\ReadingAndWriting1\ReadingAndWriting1\bin\Debug\ReadingAndWriting1.exe
+F:\C#\ReadingAndWriting1\ReadingAndWriting1\bin\Debug\ReadingAndWriting1.pdb
+F:\C#\ReadingAndWriting1\ReadingAndWriting1\obj\Debug\ReadingAndWriting1.csprojResolveAssemblyReference.cache
+F:\C#\ReadingAndWriting1\ReadingAndWriting1\obj\Debug\ReadingAndWriting1.exe
+F:\C#\ReadingAndWriting1\ReadingAndWriting1\obj\Debug\ReadingAndWriting1.pdb

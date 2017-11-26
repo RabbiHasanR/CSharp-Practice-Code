@@ -1,0 +1,6 @@
+F:\C#\IfStatment\IfStatment\bin\Debug\IfStatment.exe.config
+F:\C#\IfStatment\IfStatment\bin\Debug\IfStatment.exe
+F:\C#\IfStatment\IfStatment\bin\Debug\IfStatment.pdb
+F:\C#\IfStatment\IfStatment\obj\Debug\IfStatment.csprojResolveAssemblyReference.cache
+F:\C#\IfStatment\IfStatment\obj\Debug\IfStatment.exe
+F:\C#\IfStatment\IfStatment\obj\Debug\IfStatment.pdb

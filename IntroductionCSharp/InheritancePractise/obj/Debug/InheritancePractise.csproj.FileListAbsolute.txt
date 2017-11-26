@@ -1,0 +1,6 @@
+F:\C#\IntroductionCSharp\InheritancePractise\obj\Debug\InheritancePractise.csprojResolveAssemblyReference.cache
+F:\C#\IntroductionCSharp\InheritancePractise\bin\Debug\InheritancePractise.exe.config
+F:\C#\IntroductionCSharp\InheritancePractise\bin\Debug\InheritancePractise.exe
+F:\C#\IntroductionCSharp\InheritancePractise\bin\Debug\InheritancePractise.pdb
+F:\C#\IntroductionCSharp\InheritancePractise\obj\Debug\InheritancePractise.exe
+F:\C#\IntroductionCSharp\InheritancePractise\obj\Debug\InheritancePractise.pdb

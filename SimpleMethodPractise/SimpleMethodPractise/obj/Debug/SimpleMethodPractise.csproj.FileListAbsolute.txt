@@ -1,0 +1,6 @@
+F:\C#\SimpleMethodPractise\SimpleMethodPractise\bin\Debug\SimpleMethodPractise.exe.config
+F:\C#\SimpleMethodPractise\SimpleMethodPractise\bin\Debug\SimpleMethodPractise.exe
+F:\C#\SimpleMethodPractise\SimpleMethodPractise\bin\Debug\SimpleMethodPractise.pdb
+F:\C#\SimpleMethodPractise\SimpleMethodPractise\obj\Debug\SimpleMethodPractise.exe
+F:\C#\SimpleMethodPractise\SimpleMethodPractise\obj\Debug\SimpleMethodPractise.pdb
+F:\C#\SimpleMethodPractise\SimpleMethodPractise\obj\Debug\SimpleMethodPractise.csprojResolveAssemblyReference.cache

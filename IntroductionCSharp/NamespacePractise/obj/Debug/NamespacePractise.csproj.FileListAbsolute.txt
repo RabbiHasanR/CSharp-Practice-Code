@@ -1,0 +1,10 @@
+F:\C#\IntroductionCSharp\NamespacePractise\bin\Debug\NamespacePractise.exe.config
+F:\C#\IntroductionCSharp\NamespacePractise\bin\Debug\NamespacePractise.exe
+F:\C#\IntroductionCSharp\NamespacePractise\bin\Debug\NamespacePractise.pdb
+F:\C#\IntroductionCSharp\NamespacePractise\obj\Debug\NamespacePractise.exe
+F:\C#\IntroductionCSharp\NamespacePractise\obj\Debug\NamespacePractise.pdb
+F:\C#\IntroductionCSharp\NamespacePractise\obj\Debug\NamespacePractise.csprojResolveAssemblyReference.cache
+F:\C#\IntroductionCSharp\NamespacePractise\bin\Debug\ProjectA.TeamA.dll
+F:\C#\IntroductionCSharp\NamespacePractise\bin\Debug\ProjectA.TeamB.dll
+F:\C#\IntroductionCSharp\NamespacePractise\bin\Debug\ProjectA.TeamA.pdb
+F:\C#\IntroductionCSharp\NamespacePractise\bin\Debug\ProjectA.TeamB.pdb

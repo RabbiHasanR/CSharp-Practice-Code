@@ -1,0 +1,6 @@
+F:\C#\NamepaceExample\ClassExample\bin\Debug\ClassExample.dll
+F:\C#\NamepaceExample\ClassExample\bin\Debug\ClassExample.pdb
+F:\C#\NamepaceExample\ClassExample\bin\Debug\ClassExample.dll.CodeAnalysisLog.xml
+F:\C#\NamepaceExample\ClassExample\bin\Debug\ClassExample.dll.lastcodeanalysissucceeded
+F:\C#\NamepaceExample\ClassExample\obj\Debug\ClassExample.dll
+F:\C#\NamepaceExample\ClassExample\obj\Debug\ClassExample.pdb

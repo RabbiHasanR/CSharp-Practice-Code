@@ -1,0 +1,6 @@
+F:\C#\DataTypeConversion\DataTypeConversion\bin\Debug\DataTypeConversion.exe.config
+F:\C#\DataTypeConversion\DataTypeConversion\bin\Debug\DataTypeConversion.exe
+F:\C#\DataTypeConversion\DataTypeConversion\bin\Debug\DataTypeConversion.pdb
+F:\C#\DataTypeConversion\DataTypeConversion\obj\Debug\DataTypeConversion.csprojResolveAssemblyReference.cache
+F:\C#\DataTypeConversion\DataTypeConversion\obj\Debug\DataTypeConversion.exe
+F:\C#\DataTypeConversion\DataTypeConversion\obj\Debug\DataTypeConversion.pdb

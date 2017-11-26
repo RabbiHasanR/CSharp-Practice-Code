@@ -1,0 +1,6 @@
+F:\C#\IntroductionCSharp\PropertiesPractise\bin\Debug\PropertiesPractise.exe.config
+F:\C#\IntroductionCSharp\PropertiesPractise\bin\Debug\PropertiesPractise.exe
+F:\C#\IntroductionCSharp\PropertiesPractise\bin\Debug\PropertiesPractise.pdb
+F:\C#\IntroductionCSharp\PropertiesPractise\obj\Debug\PropertiesPractise.csprojResolveAssemblyReference.cache
+F:\C#\IntroductionCSharp\PropertiesPractise\obj\Debug\PropertiesPractise.exe
+F:\C#\IntroductionCSharp\PropertiesPractise\obj\Debug\PropertiesPractise.pdb

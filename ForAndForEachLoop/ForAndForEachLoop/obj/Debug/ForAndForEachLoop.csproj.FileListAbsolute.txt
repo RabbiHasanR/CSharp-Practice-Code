@@ -1,0 +1,6 @@
+F:\C#\ForAndForEachLoop\ForAndForEachLoop\bin\Debug\ForAndForEachLoop.exe.config
+F:\C#\ForAndForEachLoop\ForAndForEachLoop\bin\Debug\ForAndForEachLoop.exe
+F:\C#\ForAndForEachLoop\ForAndForEachLoop\bin\Debug\ForAndForEachLoop.pdb
+F:\C#\ForAndForEachLoop\ForAndForEachLoop\obj\Debug\ForAndForEachLoop.csprojResolveAssemblyReference.cache
+F:\C#\ForAndForEachLoop\ForAndForEachLoop\obj\Debug\ForAndForEachLoop.exe
+F:\C#\ForAndForEachLoop\ForAndForEachLoop\obj\Debug\ForAndForEachLoop.pdb

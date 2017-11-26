@@ -1,0 +1,6 @@
+F:\C#\DataType\DataType\bin\Debug\DataType.exe.config
+F:\C#\DataType\DataType\bin\Debug\DataType.exe
+F:\C#\DataType\DataType\bin\Debug\DataType.pdb
+F:\C#\DataType\DataType\obj\Debug\DataType.csprojResolveAssemblyReference.cache
+F:\C#\DataType\DataType\obj\Debug\DataType.exe
+F:\C#\DataType\DataType\obj\Debug\DataType.pdb

@@ -1,0 +1,8 @@
+F:\C#\FirstWindowsFormsProject\FirstWindowsFormsProject\bin\Debug\FirstWindowsFormsProject.exe.config
+F:\C#\FirstWindowsFormsProject\FirstWindowsFormsProject\bin\Debug\FirstWindowsFormsProject.exe
+F:\C#\FirstWindowsFormsProject\FirstWindowsFormsProject\bin\Debug\FirstWindowsFormsProject.pdb
+F:\C#\FirstWindowsFormsProject\FirstWindowsFormsProject\obj\Debug\FirstWindowsFormsProject.csprojResolveAssemblyReference.cache
+F:\C#\FirstWindowsFormsProject\FirstWindowsFormsProject\obj\Debug\FirstWindowsFormsProject.Properties.Resources.resources
+F:\C#\FirstWindowsFormsProject\FirstWindowsFormsProject\obj\Debug\FirstWindowsFormsProject.csproj.GenerateResource.Cache
+F:\C#\FirstWindowsFormsProject\FirstWindowsFormsProject\obj\Debug\FirstWindowsFormsProject.exe
+F:\C#\FirstWindowsFormsProject\FirstWindowsFormsProject\obj\Debug\FirstWindowsFormsProject.pdb

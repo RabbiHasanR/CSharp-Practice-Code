@@ -1,0 +1,9 @@
+F:\C#\IntroductionCSharp\IntroductionCSharp\bin\Debug\netcoreapp1.1\IntroductionCSharp.deps.json
+F:\C#\IntroductionCSharp\IntroductionCSharp\bin\Debug\netcoreapp1.1\IntroductionCSharp.runtimeconfig.json
+F:\C#\IntroductionCSharp\IntroductionCSharp\bin\Debug\netcoreapp1.1\IntroductionCSharp.runtimeconfig.dev.json
+F:\C#\IntroductionCSharp\IntroductionCSharp\bin\Debug\netcoreapp1.1\IntroductionCSharp.dll
+F:\C#\IntroductionCSharp\IntroductionCSharp\bin\Debug\netcoreapp1.1\IntroductionCSharp.pdb
+F:\C#\IntroductionCSharp\IntroductionCSharp\obj\Debug\netcoreapp1.1\IntroductionCSharp.csprojResolveAssemblyReference.cache
+F:\C#\IntroductionCSharp\IntroductionCSharp\obj\Debug\netcoreapp1.1\IntroductionCSharp.AssemblyInfo.cs
+F:\C#\IntroductionCSharp\IntroductionCSharp\obj\Debug\netcoreapp1.1\IntroductionCSharp.dll
+F:\C#\IntroductionCSharp\IntroductionCSharp\obj\Debug\netcoreapp1.1\IntroductionCSharp.pdb

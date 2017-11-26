@@ -1,0 +1,5 @@
+F:\C#\IntroductionCSharp\ProjectA.TeamA\bin\Debug\ProjectA.TeamA.dll
+F:\C#\IntroductionCSharp\ProjectA.TeamA\bin\Debug\ProjectA.TeamA.pdb
+F:\C#\IntroductionCSharp\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.csprojResolveAssemblyReference.cache
+F:\C#\IntroductionCSharp\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.dll
+F:\C#\IntroductionCSharp\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.pdb

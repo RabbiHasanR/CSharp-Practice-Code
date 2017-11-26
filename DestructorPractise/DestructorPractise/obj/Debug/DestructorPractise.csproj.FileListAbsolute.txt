@@ -1,0 +1,6 @@
+F:\C#\DestructorPractise\DestructorPractise\bin\Debug\DestructorPractise.exe.config
+F:\C#\DestructorPractise\DestructorPractise\bin\Debug\DestructorPractise.exe
+F:\C#\DestructorPractise\DestructorPractise\bin\Debug\DestructorPractise.pdb
+F:\C#\DestructorPractise\DestructorPractise\obj\Debug\DestructorPractise.csprojResolveAssemblyReference.cache
+F:\C#\DestructorPractise\DestructorPractise\obj\Debug\DestructorPractise.exe
+F:\C#\DestructorPractise\DestructorPractise\obj\Debug\DestructorPractise.pdb

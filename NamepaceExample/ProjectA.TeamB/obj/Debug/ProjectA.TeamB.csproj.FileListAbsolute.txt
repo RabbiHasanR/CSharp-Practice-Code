@@ -1,0 +1,5 @@
+F:\C#\NamepaceExample\ProjectA.TeamB\bin\Debug\ProjectA.TeamB.dll
+F:\C#\NamepaceExample\ProjectA.TeamB\bin\Debug\ProjectA.TeamB.pdb
+F:\C#\NamepaceExample\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.csprojResolveAssemblyReference.cache
+F:\C#\NamepaceExample\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.dll
+F:\C#\NamepaceExample\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.pdb

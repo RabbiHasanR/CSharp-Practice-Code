@@ -1,0 +1,6 @@
+F:\C#\IntroductionCSharp\StructurePractise\bin\Debug\StructurePractise.exe.config
+F:\C#\IntroductionCSharp\StructurePractise\bin\Debug\StructurePractise.exe
+F:\C#\IntroductionCSharp\StructurePractise\bin\Debug\StructurePractise.pdb
+F:\C#\IntroductionCSharp\StructurePractise\obj\Debug\StructurePractise.exe
+F:\C#\IntroductionCSharp\StructurePractise\obj\Debug\StructurePractise.pdb
+F:\C#\IntroductionCSharp\StructurePractise\obj\Debug\StructurePractise.csprojResolveAssemblyReference.cache

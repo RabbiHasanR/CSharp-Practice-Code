@@ -1,0 +1,6 @@
+F:\C#\MethodPractise\MethodPractise\bin\Debug\MethodPractise.exe.config
+F:\C#\MethodPractise\MethodPractise\bin\Debug\MethodPractise.exe
+F:\C#\MethodPractise\MethodPractise\bin\Debug\MethodPractise.pdb
+F:\C#\MethodPractise\MethodPractise\obj\Debug\MethodPractise.csprojResolveAssemblyReference.cache
+F:\C#\MethodPractise\MethodPractise\obj\Debug\MethodPractise.exe
+F:\C#\MethodPractise\MethodPractise\obj\Debug\MethodPractise.pdb

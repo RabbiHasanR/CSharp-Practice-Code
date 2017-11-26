@@ -1,0 +1,6 @@
+F:\C#\StaticAndInstanceMembersPractise\StaticAndInstanceMembersPractise\bin\Debug\StaticAndInstanceMembersPractise.exe.config
+F:\C#\StaticAndInstanceMembersPractise\StaticAndInstanceMembersPractise\bin\Debug\StaticAndInstanceMembersPractise.exe
+F:\C#\StaticAndInstanceMembersPractise\StaticAndInstanceMembersPractise\bin\Debug\StaticAndInstanceMembersPractise.pdb
+F:\C#\StaticAndInstanceMembersPractise\StaticAndInstanceMembersPractise\obj\Debug\StaticAndInstanceMembersPractise.csprojResolveAssemblyReference.cache
+F:\C#\StaticAndInstanceMembersPractise\StaticAndInstanceMembersPractise\obj\Debug\StaticAndInstanceMembersPractise.exe
+F:\C#\StaticAndInstanceMembersPractise\StaticAndInstanceMembersPractise\obj\Debug\StaticAndInstanceMembersPractise.pdb

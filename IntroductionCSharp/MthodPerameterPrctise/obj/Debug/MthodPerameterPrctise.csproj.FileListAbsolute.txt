@@ -1,0 +1,6 @@
+F:\C#\IntroductionCSharp\MthodPerameterPrctise\bin\Debug\MthodPerameterPrctise.exe.config
+F:\C#\IntroductionCSharp\MthodPerameterPrctise\bin\Debug\MthodPerameterPrctise.exe
+F:\C#\IntroductionCSharp\MthodPerameterPrctise\bin\Debug\MthodPerameterPrctise.pdb
+F:\C#\IntroductionCSharp\MthodPerameterPrctise\obj\Debug\MthodPerameterPrctise.csprojResolveAssemblyReference.cache
+F:\C#\IntroductionCSharp\MthodPerameterPrctise\obj\Debug\MthodPerameterPrctise.exe
+F:\C#\IntroductionCSharp\MthodPerameterPrctise\obj\Debug\MthodPerameterPrctise.pdb

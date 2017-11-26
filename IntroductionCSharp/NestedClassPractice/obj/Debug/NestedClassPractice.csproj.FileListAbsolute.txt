@@ -1,0 +1,6 @@
+F:\C#\IntroductionCSharp\NestedClassPractice\bin\Debug\NestedClassPractice.exe.config
+F:\C#\IntroductionCSharp\NestedClassPractice\bin\Debug\NestedClassPractice.exe
+F:\C#\IntroductionCSharp\NestedClassPractice\bin\Debug\NestedClassPractice.pdb
+F:\C#\IntroductionCSharp\NestedClassPractice\obj\Debug\NestedClassPractice.csprojResolveAssemblyReference.cache
+F:\C#\IntroductionCSharp\NestedClassPractice\obj\Debug\NestedClassPractice.exe
+F:\C#\IntroductionCSharp\NestedClassPractice\obj\Debug\NestedClassPractice.pdb

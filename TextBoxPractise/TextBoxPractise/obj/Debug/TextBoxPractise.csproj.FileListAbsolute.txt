@@ -1,0 +1,9 @@
+F:\C#\TextBoxPractise\TextBoxPractise\bin\Debug\TextBoxPractise.exe.config
+F:\C#\TextBoxPractise\TextBoxPractise\bin\Debug\TextBoxPractise.exe
+F:\C#\TextBoxPractise\TextBoxPractise\bin\Debug\TextBoxPractise.pdb
+F:\C#\TextBoxPractise\TextBoxPractise\obj\Debug\TextBoxPractise.csprojResolveAssemblyReference.cache
+F:\C#\TextBoxPractise\TextBoxPractise\obj\Debug\TextBoxPractise.Form1.resources
+F:\C#\TextBoxPractise\TextBoxPractise\obj\Debug\TextBoxPractise.Properties.Resources.resources
+F:\C#\TextBoxPractise\TextBoxPractise\obj\Debug\TextBoxPractise.csproj.GenerateResource.Cache
+F:\C#\TextBoxPractise\TextBoxPractise\obj\Debug\TextBoxPractise.exe
+F:\C#\TextBoxPractise\TextBoxPractise\obj\Debug\TextBoxPractise.pdb
